@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="LFSApp.Views.ViewDataView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:ctrl="clr-namespace:LFSApp.Controls"
+             xmlns:rsrs="clr-namespace:LFSApp.Services"
+             xmlns:cnv="clr-namespace:LFSApp.Converters"
+             xmlns:vm="clr-namespace:LFSApp.ViewModels"
+             xmlns:vr="clr-namespace:LFSApp.ValidationRules"
+             xmlns:m="clr-namespace:Domain.Models;assembly=Domain"
+             mc:Ignorable="d" d:DesignHeight="450" d:DesignWidth="800" 
+             Background="Transparent" DataContextChanged="View_OnDataContextChanged" >
+    <UserControl.Resources>
+        <cnv:DebugDummyConverter x:Key="DDC" />
+        <!--, Converter={StaticResource DDC}-->
+        <rsrs:DefaultCommandDialogService x:Key="OpenDlg" FilePath="{Binding TargetFile, Mode=TwoWay}" />
+    </UserControl.Resources>
+    <DockPanel Margin="10">
+        <Label DockPanel.Dock="Top">Choose file to view:</Label>
+        <ctrl:ChoosePathControl x:Name="cpcOpen" DockPanel.Dock="Top" ChoosePathCommand="{Binding OpenCommand, Source={StaticResource OpenDlg}}" 
+                                SelectedPath="{Binding FilePath, Source={StaticResource OpenDlg}, Mode=TwoWay}">
+        </ctrl:ChoosePathControl>
+        <Grid Margin="0,10" DockPanel.Dock="Top">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition MinWidth="100"  Width="Auto"/>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition MinWidth="100" Width="Auto" />
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" VerticalContentAlignment="Center">Content preview, page #:</Label>
+            <xctk:IntegerUpDown Grid.Column="1" Name="spinPage" Minimum="{x:Static vm:ViewDataViewModel.PageNumberMinValue}" 
+                                 Value="{Binding PageNumber, Mode=TwoWay, UpdateSourceTrigger=LostFocus}" 
+                                 KeyDown="SpinPage_OnKeyDown" Spinned="SpinPage_OnSpinned"/>
+            <Label Grid.Column="2" Margin="50,0,0,0" VerticalContentAlignment="Center">Page line count:</Label>
+            <Border Grid.Column="3">
+                <TextBox  Name="txtCount" HorizontalContentAlignment="Right" KeyDown="TxtCount_KeyDown">
+                    <TextBox.Text>
+                        <Binding Path="PageLineCount" Mode="TwoWay" UpdateSourceTrigger="LostFocus">
+                            <Binding.ValidationRules>
+                                <vr:RangeValidationRuleUInt Minimum="30" Maximum="100000" Source="page lines - "/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+            </Border>
+        </Grid>
+        <FlowDocumentReader x:Name="fdr" ViewingMode="Scroll" >
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="{Binding PreviewContent}"/>
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentReader>
+    </DockPanel>
+</UserControl>

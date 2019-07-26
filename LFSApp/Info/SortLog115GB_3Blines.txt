@@ -1,0 +1,571 @@
+﻿30.03.2019 15:07:24: Start
+30.03.2019 15:07:25: SplitByBlocks count=116, blockSize MB=1024, filesize MB=117858, concurrent=12, markerGroupLineCount=30000000
+30.03.2019 15:08:32: Reader #9, blocksize/linecount:=1073741834/26070993/mark:1320
+30.03.2019 15:08:32: Reader #0, blocksize/linecount:=1073741849/26065877/mark:1320
+30.03.2019 15:08:32: Reader #1, blocksize/linecount:=1073741845/26064704/mark:1320
+30.03.2019 15:08:32: Reader #2, blocksize/linecount:=1073741829/26061289/mark:1320
+30.03.2019 15:08:32: Reader #6, blocksize/linecount:=1073741829/26055655/mark:1320
+30.03.2019 15:08:32: Reader #8, blocksize/linecount:=1073741843/26062671/mark:1320
+30.03.2019 15:08:32: Reader #5, blocksize/linecount:=1073741845/26062124/mark:1320
+30.03.2019 15:08:32: Reader #7, blocksize/linecount:=1073741864/26064361/mark:1320
+30.03.2019 15:08:32: Reader #11, blocksize/linecount:=1073741842/26065538/mark:1320
+30.03.2019 15:08:32: Reader #3, blocksize/linecount:=1073741830/26066528/mark:1320
+30.03.2019 15:08:32: Reader #4, blocksize/linecount:=1073741884/26062509/mark:1320
+30.03.2019 15:08:32: Reader #10, blocksize/linecount:=1073741827/26063405/mark:1320
+30.03.2019 15:09:40: Reader #12, blocksize/linecount:=1073741843/26068342/mark:1320
+30.03.2019 15:09:40: Reader #18, blocksize/linecount:=1073741842/26067094/mark:1320
+30.03.2019 15:09:40: Reader #16, blocksize/linecount:=1073741850/26066046/mark:1320
+30.03.2019 15:09:40: Reader #14, blocksize/linecount:=1073741838/26066234/mark:1320
+30.03.2019 15:09:40: Reader #15, blocksize/linecount:=1073741853/26065354/mark:1320
+30.03.2019 15:09:40: Reader #20, blocksize/linecount:=1073741828/26060565/mark:1320
+30.03.2019 15:09:40: Reader #19, blocksize/linecount:=1073741832/26068006/mark:1320
+30.03.2019 15:09:40: Reader #21, blocksize/linecount:=1073741866/26067199/mark:1320
+30.03.2019 15:09:40: Reader #13, blocksize/linecount:=1073741830/26068219/mark:1320
+30.03.2019 15:09:40: Reader #17, blocksize/linecount:=1073741862/26061040/mark:1320
+30.03.2019 15:09:40: Reader #22, blocksize/linecount:=1073741879/26064562/mark:1320
+30.03.2019 15:09:40: Reader #23, blocksize/linecount:=1073741834/26061804/mark:1320
+30.03.2019 15:10:48: Reader #24, blocksize/linecount:=1073741849/26063797/mark:1320
+30.03.2019 15:10:48: Reader #25, blocksize/linecount:=1073741834/26061547/mark:1320
+30.03.2019 15:10:48: Reader #28, blocksize/linecount:=1073741837/26061868/mark:1320
+30.03.2019 15:10:48: Reader #29, blocksize/linecount:=1073741859/26062538/mark:1320
+30.03.2019 15:10:48: Reader #27, blocksize/linecount:=1073741861/26065997/mark:1320
+30.03.2019 15:10:48: Reader #26, blocksize/linecount:=1073741857/26065823/mark:1320
+30.03.2019 15:10:48: Reader #32, blocksize/linecount:=1073741866/26069393/mark:1320
+30.03.2019 15:10:48: Reader #30, blocksize/linecount:=1073741859/26069901/mark:1320
+30.03.2019 15:10:48: Reader #31, blocksize/linecount:=1073741853/26068295/mark:1320
+30.03.2019 15:10:49: Reader #33, blocksize/linecount:=1073741848/26069938/mark:1320
+30.03.2019 15:10:49: Reader #34, blocksize/linecount:=1073741832/26065106/mark:1320
+30.03.2019 15:10:49: Reader #35, blocksize/linecount:=1073741864/26069167/mark:1320
+30.03.2019 15:11:57: Reader #37, blocksize/linecount:=1073741851/26064631/mark:1320
+30.03.2019 15:11:57: Reader #36, blocksize/linecount:=1073741857/26071710/mark:1320
+30.03.2019 15:11:57: Reader #38, blocksize/linecount:=1073741864/26068641/mark:1320
+30.03.2019 15:11:57: Reader #39, blocksize/linecount:=1073741854/26068115/mark:1320
+30.03.2019 15:11:57: Reader #43, blocksize/linecount:=1073741828/26063359/mark:1320
+30.03.2019 15:11:57: Reader #41, blocksize/linecount:=1073741850/26064155/mark:1320
+30.03.2019 15:11:57: Reader #42, blocksize/linecount:=1073741843/26062781/mark:1320
+30.03.2019 15:11:57: Reader #40, blocksize/linecount:=1073741843/26063740/mark:1320
+30.03.2019 15:11:57: Reader #47, blocksize/linecount:=1073741831/26060101/mark:1320
+30.03.2019 15:11:57: Reader #45, blocksize/linecount:=1073741855/26069117/mark:1320
+30.03.2019 15:11:57: Reader #44, blocksize/linecount:=1073741847/26065305/mark:1320
+30.03.2019 15:11:58: Reader #46, blocksize/linecount:=1073741850/26063131/mark:1320
+30.03.2019 15:13:06: Reader #48, blocksize/linecount:=1073741831/26067318/mark:1320
+30.03.2019 15:13:06: Reader #49, blocksize/linecount:=1073741826/26062803/mark:1320
+30.03.2019 15:13:06: Reader #50, blocksize/linecount:=1073741859/26059314/mark:1320
+30.03.2019 15:13:06: Reader #53, blocksize/linecount:=1073741826/26065443/mark:1320
+30.03.2019 15:13:06: Reader #51, blocksize/linecount:=1073741831/26067819/mark:1320
+30.03.2019 15:13:06: Reader #54, blocksize/linecount:=1073741843/26067713/mark:1320
+30.03.2019 15:13:06: Reader #52, blocksize/linecount:=1073741873/26064430/mark:1320
+30.03.2019 15:13:06: Reader #56, blocksize/linecount:=1073741826/26067046/mark:1320
+30.03.2019 15:13:06: Reader #57, blocksize/linecount:=1073741846/26072054/mark:1320
+30.03.2019 15:13:06: Reader #58, blocksize/linecount:=1073741844/26063824/mark:1320
+30.03.2019 15:13:06: Reader #55, blocksize/linecount:=1073741841/26063282/mark:1320
+30.03.2019 15:13:07: Reader #59, blocksize/linecount:=1073741877/26062580/mark:1320
+30.03.2019 15:14:15: Reader #60, blocksize/linecount:=1073741829/26064506/mark:1320
+30.03.2019 15:14:15: Reader #62, blocksize/linecount:=1073741834/26062764/mark:1320
+30.03.2019 15:14:15: Reader #61, blocksize/linecount:=1073741831/26071234/mark:1320
+30.03.2019 15:14:15: Reader #64, blocksize/linecount:=1073741851/26063544/mark:1320
+30.03.2019 15:14:15: Reader #63, blocksize/linecount:=1073741837/26061689/mark:1320
+30.03.2019 15:14:15: Reader #65, blocksize/linecount:=1073741831/26058413/mark:1320
+30.03.2019 15:14:15: Reader #66, blocksize/linecount:=1073741840/26062137/mark:1320
+30.03.2019 15:14:15: Reader #67, blocksize/linecount:=1073741837/26066669/mark:1320
+30.03.2019 15:14:15: Reader #69, blocksize/linecount:=1073741837/26061887/mark:1320
+30.03.2019 15:14:15: Reader #68, blocksize/linecount:=1073741861/26067246/mark:1320
+30.03.2019 15:14:15: Reader #70, blocksize/linecount:=1073741832/26065166/mark:1320
+30.03.2019 15:14:15: Reader #71, blocksize/linecount:=1073741852/26063009/mark:1320
+30.03.2019 15:15:24: Reader #73, blocksize/linecount:=1073741849/26067682/mark:1320
+30.03.2019 15:15:24: Reader #76, blocksize/linecount:=1073741862/26068196/mark:1320
+30.03.2019 15:15:24: Reader #72, blocksize/linecount:=1073741836/26062021/mark:1320
+30.03.2019 15:15:24: Reader #75, blocksize/linecount:=1073741826/26067337/mark:1320
+30.03.2019 15:15:24: Reader #77, blocksize/linecount:=1073741856/26065683/mark:1320
+30.03.2019 15:15:24: Reader #74, blocksize/linecount:=1073741865/26065163/mark:1320
+30.03.2019 15:15:24: Reader #78, blocksize/linecount:=1073741850/26065530/mark:1320
+30.03.2019 15:15:24: Reader #79, blocksize/linecount:=1073741851/26065714/mark:1320
+30.03.2019 15:15:24: Reader #80, blocksize/linecount:=1073741877/26063612/mark:1320
+30.03.2019 15:15:24: Reader #82, blocksize/linecount:=1073741844/26064952/mark:1320
+30.03.2019 15:15:24: Reader #83, blocksize/linecount:=1073741830/26063730/mark:1320
+30.03.2019 15:15:24: Reader #81, blocksize/linecount:=1073741845/26065236/mark:1320
+30.03.2019 15:16:33: Reader #84, blocksize/linecount:=1073741862/26063493/mark:1320
+30.03.2019 15:16:33: Reader #85, blocksize/linecount:=1073741861/26063162/mark:1320
+30.03.2019 15:16:33: Reader #86, blocksize/linecount:=1073741837/26062782/mark:1320
+30.03.2019 15:16:33: Reader #87, blocksize/linecount:=1073741841/26065168/mark:1320
+30.03.2019 15:16:33: Reader #88, blocksize/linecount:=1073741826/26062794/mark:1320
+30.03.2019 15:16:33: Reader #89, blocksize/linecount:=1073741844/26063041/mark:1320
+30.03.2019 15:16:33: Reader #91, blocksize/linecount:=1073741831/26060031/mark:1320
+30.03.2019 15:16:33: Reader #90, blocksize/linecount:=1073741846/26064949/mark:1320
+30.03.2019 15:16:33: Reader #92, blocksize/linecount:=1073741849/26064893/mark:1320
+30.03.2019 15:16:33: Reader #93, blocksize/linecount:=1073741853/26063006/mark:1320
+30.03.2019 15:16:33: Reader #95, blocksize/linecount:=1073741834/26064308/mark:1320
+30.03.2019 15:16:33: Reader #94, blocksize/linecount:=1073741832/26066860/mark:1320
+30.03.2019 15:17:41: Reader #96, blocksize/linecount:=1073741855/26069682/mark:1320
+30.03.2019 15:17:41: Reader #97, blocksize/linecount:=1073741863/26067704/mark:1320
+30.03.2019 15:17:41: Reader #99, blocksize/linecount:=1073741834/26066771/mark:1320
+30.03.2019 15:17:41: Reader #98, blocksize/linecount:=1073741874/26066309/mark:1320
+30.03.2019 15:17:41: Reader #101, blocksize/linecount:=1073741871/26066467/mark:1320
+30.03.2019 15:17:41: Reader #104, blocksize/linecount:=1073741852/26067954/mark:1320
+30.03.2019 15:17:41: Reader #102, blocksize/linecount:=1073741826/26065117/mark:1320
+30.03.2019 15:17:41: Reader #100, blocksize/linecount:=1073741826/26065391/mark:1320
+30.03.2019 15:17:41: Reader #103, blocksize/linecount:=1073741840/26066978/mark:1320
+30.03.2019 15:17:41: Reader #105, blocksize/linecount:=1073741863/26062253/mark:1320
+30.03.2019 15:17:41: Reader #106, blocksize/linecount:=1073741837/26063952/mark:1320
+30.03.2019 15:17:41: Reader #107, blocksize/linecount:=1073741865/26068476/mark:1320
+30.03.2019 15:17:45: Reader #115, blocksize/linecount:=103167677/2504522/mark:1320
+30.03.2019 15:18:21: Reader #108, blocksize/linecount:=1073741836/26066196/mark:1320
+30.03.2019 15:18:21: Reader #110, blocksize/linecount:=1073741855/26065052/mark:1320
+30.03.2019 15:18:21: Reader #109, blocksize/linecount:=1073741858/26069137/mark:1320
+30.03.2019 15:18:21: Reader #112, blocksize/linecount:=1073741837/26069792/mark:1320
+30.03.2019 15:18:21: Reader #111, blocksize/linecount:=1073741843/26065593/mark:1320
+30.03.2019 15:18:21: Reader #113, blocksize/linecount:=1073741834/26066678/mark:1320
+30.03.2019 15:18:21: Reader #114, blocksize/linecount:=1073741828/26066471/mark:1320
+30.03.2019 15:18:21: SetReaderStatistic markers count=1320, minrep=[Eritrea, 433983], maxrep=[invoice, 26781403], total file lines=3000000003
+30.03.2019 15:18:21: Memory used, MB: GC => 11773, ProcPrivate => 12189 | Memory free, MB: physical => 1355 of 16243, virtual => 134197123 of 134217727 
+30.03.2019 15:18:21: 1. Read markers range: 1080p-AI, count=12, lines=29618988, groups=112
+30.03.2019 15:25:25: 1. Done range: 1080p-AI, count=12, lines=29618988, groups=112
+30.03.2019 15:25:25: 1. Sort/Write markers range: 1080p-AI, count=12, lines=29618988, groups=112
+30.03.2019 15:26:27: 1. Finished range: 1080p-AI, count=12, lines=29618988, groups=112
+30.03.2019 15:26:27: 2. Read markers range: Accounts-Antigua, count=21, lines=29434479, groups=112
+30.03.2019 15:33:36: 2. Done range: Accounts-Antigua, count=21, lines=29434479, groups=112
+30.03.2019 15:33:36: 2. Sort/Write markers range: Accounts-Antigua, count=21, lines=29434479, groups=112
+30.03.2019 15:34:39: 2. Finished range: Accounts-Antigua, count=21, lines=29434479, groups=112
+30.03.2019 15:34:39: 3. Read markers range: Applications-Austria, count=17, lines=28752869, groups=112
+30.03.2019 15:41:46: 3. Done range: Applications-Austria, count=17, lines=28752869, groups=112
+30.03.2019 15:41:46: 3. Sort/Write markers range: Applications-Austria, count=17, lines=28752869, groups=112
+30.03.2019 15:42:47: 3. Finished range: Applications-Austria, count=17, lines=28752869, groups=112
+30.03.2019 15:42:47: 4. Read markers range: Auto-Avenue, count=5, lines=20293687, groups=112
+30.03.2019 15:49:18: 4. Done range: Auto-Avenue, count=5, lines=20293687, groups=112
+30.03.2019 15:49:18: 4. Sort/Write markers range: Auto-Avenue, count=5, lines=20293687, groups=112
+30.03.2019 15:49:59: 4. Finished range: Auto-Avenue, count=5, lines=20293687, groups=112
+30.03.2019 15:49:59: 5. Read markers range: Avon-Avon, count=1, lines=17859550, groups=112
+30.03.2019 15:55:05: 5. Done range: Avon-Avon, count=1, lines=17859550, groups=112
+30.03.2019 15:55:05: 5. Sort/Write markers range: Avon-Avon, count=1, lines=17859550, groups=112
+30.03.2019 15:55:40: 5. Finished range: Avon-Avon, count=1, lines=17859550, groups=112
+30.03.2019 15:55:40: 6. Read markers range: Awesome-Bahrain, count=10, lines=29643435, groups=112
+30.03.2019 16:02:57: 6. Done range: Awesome-Bahrain, count=10, lines=29643435, groups=112
+30.03.2019 16:02:57: 6. Sort/Write markers range: Awesome-Bahrain, count=10, lines=29643435, groups=112
+30.03.2019 16:03:58: 6. Finished range: Awesome-Bahrain, count=10, lines=29643435, groups=112
+30.03.2019 16:03:59: 7. Read markers range: Bahraini-Benin, count=13, lines=29594819, groups=112
+30.03.2019 16:12:55: 7. Done range: Bahraini-Benin, count=13, lines=29594819, groups=112
+30.03.2019 16:12:55: 7. Sort/Write markers range: Bahraini-Benin, count=13, lines=29594819, groups=112
+30.03.2019 16:13:58: 7. Finished range: Bahraini-Benin, count=13, lines=29594819, groups=112
+30.03.2019 16:13:58: 8. Read markers range: Berkshire-Books,, count=9, lines=25941900, groups=112
+30.03.2019 16:26:32: 8. Done range: Berkshire-Books,, count=9, lines=25941900, groups=112
+30.03.2019 16:26:32: 8. Sort/Write markers range: Berkshire-Books,, count=9, lines=25941900, groups=112
+30.03.2019 16:27:26: 8. Finished range: Berkshire-Books,, count=9, lines=25941900, groups=112
+30.03.2019 16:27:26: 9. Read markers range: Borders-Brook, count=12, lines=29340833, groups=112
+30.03.2019 16:34:35: 9. Done range: Borders-Brook, count=12, lines=29340833, groups=112
+30.03.2019 16:34:35: 9. Sort/Write markers range: Borders-Brook, count=12, lines=29340833, groups=112
+30.03.2019 16:35:35: 9. Finished range: Borders-Brook, count=12, lines=29340833, groups=112
+30.03.2019 16:35:35: 10. Read markers range: Brooks-CFP, count=13, lines=28292710, groups=112
+30.03.2019 16:44:30: 10. Done range: Brooks-CFP, count=13, lines=28292710, groups=112
+30.03.2019 16:44:30: 10. Sort/Write markers range: Brooks-CFP, count=13, lines=28292710, groups=112
+30.03.2019 16:45:35: 10. Finished range: Brooks-CFP, count=13, lines=28292710, groups=112
+30.03.2019 16:45:35: 11. Read markers range: California-CSS, count=8, lines=29650167, groups=112
+30.03.2019 16:53:54: 11. Done range: California-CSS, count=8, lines=29650167, groups=112
+30.03.2019 16:53:54: 11. Sort/Write markers range: California-CSS, count=8, lines=29650167, groups=112
+30.03.2019 16:54:57: 11. Finished range: California-CSS, count=8, lines=29650167, groups=112
+30.03.2019 16:54:57: 12. Read markers range: Canadian-Checking, count=12, lines=28427093, groups=112
+30.03.2019 17:01:54: 12. Done range: Canadian-Checking, count=12, lines=28427093, groups=112
+30.03.2019 17:01:54: 12. Sort/Write markers range: Canadian-Checking, count=12, lines=28427093, groups=112
+30.03.2019 17:03:00: 12. Finished range: Canadian-Checking, count=12, lines=28427093, groups=112
+30.03.2019 17:03:00: 13. Read markers range: Chief-Computers, count=22, lines=29786448, groups=112
+30.03.2019 17:13:30: 13. Done range: Chief-Computers, count=22, lines=29786448, groups=112
+30.03.2019 17:13:30: 13. Sort/Write markers range: Chief-Computers, count=22, lines=29786448, groups=112
+30.03.2019 17:14:32: 13. Finished range: Chief-Computers, count=22, lines=29786448, groups=112
+30.03.2019 17:14:32: 14. Read markers range: Computers,-Corner, count=13, lines=29745071, groups=112
+30.03.2019 17:23:04: 14. Done range: Computers,-Corner, count=13, lines=29745071, groups=112
+30.03.2019 17:23:04: 14. Sort/Write markers range: Computers,-Corner, count=13, lines=29745071, groups=112
+30.03.2019 17:24:07: 14. Finished range: Computers,-Corner, count=13, lines=29745071, groups=112
+30.03.2019 17:24:07: 15. Read markers range: Corners-Creative, count=11, lines=24740258, groups=112
+30.03.2019 17:33:20: 15. Done range: Corners-Creative, count=11, lines=24740258, groups=112
+30.03.2019 17:33:20: 15. Sort/Write markers range: Corners-Creative, count=11, lines=24740258, groups=112
+30.03.2019 17:34:09: 15. Finished range: Corners-Creative, count=11, lines=24740258, groups=112
+30.03.2019 17:34:09: 16. Read markers range: Credit-Customizable, count=15, lines=29771926, groups=112
+30.03.2019 17:43:49: 16. Done range: Credit-Customizable, count=15, lines=29771926, groups=112
+30.03.2019 17:43:49: 16. Sort/Write markers range: Credit-Customizable, count=15, lines=29771926, groups=112
+30.03.2019 17:44:58: 16. Finished range: Credit-Customizable, count=15, lines=29771926, groups=112
+30.03.2019 17:44:58: 17. Read markers range: Cyprus-Direct, count=18, lines=28991577, groups=112
+30.03.2019 17:51:54: 17. Done range: Cyprus-Direct, count=18, lines=28991577, groups=112
+30.03.2019 17:51:54: 17. Sort/Write markers range: Cyprus-Direct, count=18, lines=28991577, groups=112
+30.03.2019 17:52:51: 17. Finished range: Cyprus-Direct, count=18, lines=28991577, groups=112
+30.03.2019 17:52:51: 18. Read markers range: Directives-Drives, count=15, lines=25819071, groups=112
+30.03.2019 17:59:48: 18. Done range: Directives-Drives, count=15, lines=25819071, groups=112
+30.03.2019 17:59:48: 18. Sort/Write markers range: Directives-Drives, count=15, lines=25819071, groups=112
+30.03.2019 18:00:44: 18. Finished range: Directives-Drives, count=15, lines=25819071, groups=112
+30.03.2019 18:00:44: 19. Read markers range: Dynamic-EXE, count=13, lines=27752081, groups=112
+30.03.2019 18:10:52: 19. Done range: Dynamic-EXE, count=13, lines=27752081, groups=112
+30.03.2019 18:10:52: 19. Sort/Write markers range: Dynamic-EXE, count=13, lines=27752081, groups=112
+30.03.2019 18:11:50: 19. Finished range: Dynamic-EXE, count=13, lines=27752081, groups=112
+30.03.2019 18:11:50: 20. Read markers range: Ergonomic-Exclusive, count=10, lines=27443937, groups=112
+30.03.2019 18:20:39: 20. Done range: Ergonomic-Exclusive, count=10, lines=27443937, groups=112
+30.03.2019 18:20:39: 20. Sort/Write markers range: Ergonomic-Exclusive, count=10, lines=27443937, groups=112
+30.03.2019 18:21:37: 20. Finished range: Ergonomic-Exclusive, count=10, lines=27443937, groups=112
+30.03.2019 18:21:37: 21. Read markers range: Executive-FTP, count=13, lines=24208197, groups=112
+30.03.2019 18:28:13: 21. Done range: Executive-FTP, count=13, lines=24208197, groups=112
+30.03.2019 18:28:13: 21. Sort/Write markers range: Executive-FTP, count=13, lines=24208197, groups=112
+30.03.2019 18:29:04: 21. Finished range: Executive-FTP, count=13, lines=24208197, groups=112
+30.03.2019 18:29:04: 22. Read markers range: Fantastic-Ford, count=12, lines=29774557, groups=112
+30.03.2019 18:38:14: 22. Done range: Fantastic-Ford, count=12, lines=29774557, groups=112
+30.03.2019 18:38:14: 22. Sort/Write markers range: Fantastic-Ford, count=12, lines=29774557, groups=112
+30.03.2019 18:39:18: 22. Finished range: Fantastic-Ford, count=12, lines=29774557, groups=112
+30.03.2019 18:39:18: 23. Read markers range: Fords-Front-line, count=14, lines=25671034, groups=112
+30.03.2019 18:45:48: 23. Done range: Fords-Front-line, count=14, lines=25671034, groups=112
+30.03.2019 18:45:48: 23. Sort/Write markers range: Fords-Front-line, count=14, lines=25671034, groups=112
+30.03.2019 18:46:42: 23. Finished range: Fords-Front-line, count=14, lines=25671034, groups=112
+30.03.2019 18:46:42: 24. Read markers range: Frozen-GB, count=11, lines=29594792, groups=112
+30.03.2019 18:56:45: 24. Done range: Frozen-GB, count=11, lines=29594792, groups=112
+30.03.2019 18:56:45: 24. Sort/Write markers range: Frozen-GB, count=11, lines=29594792, groups=112
+30.03.2019 18:57:54: 24. Finished range: Frozen-GB, count=11, lines=29594792, groups=112
+30.03.2019 18:57:54: 25. Read markers range: Games,-Generic, count=6, lines=28260197, groups=112
+30.03.2019 19:05:19: 25. Done range: Games,-Generic, count=6, lines=28260197, groups=112
+30.03.2019 19:05:19: 25. Sort/Write markers range: Games,-Generic, count=6, lines=28260197, groups=112
+30.03.2019 19:06:21: 25. Finished range: Games,-Generic, count=6, lines=28260197, groups=112
+30.03.2019 19:06:21: 26. Read markers range: Georgia-Gold, count=8, lines=11948738, groups=112
+30.03.2019 19:11:11: 26. Done range: Georgia-Gold, count=8, lines=11948738, groups=112
+30.03.2019 19:11:11: 26. Sort/Write markers range: Georgia-Gold, count=8, lines=11948738, groups=112
+30.03.2019 19:11:37: 26. Finished range: Georgia-Gold, count=8, lines=11948738, groups=112
+30.03.2019 19:11:37: 27. Read markers range: Gorgeous-Graphic, count=3, lines=29685522, groups=112
+30.03.2019 19:19:06: 27. Done range: Gorgeous-Graphic, count=3, lines=29685522, groups=112
+30.03.2019 19:19:06: 27. Sort/Write markers range: Gorgeous-Graphic, count=3, lines=29685522, groups=112
+30.03.2019 19:20:12: 27. Finished range: Gorgeous-Graphic, count=3, lines=29685522, groups=112
+30.03.2019 19:20:12: 28. Read markers range: Graphical-HTTP, count=23, lines=27807811, groups=112
+30.03.2019 19:30:00: 28. Done range: Graphical-HTTP, count=23, lines=27807811, groups=112
+30.03.2019 19:30:00: 28. Sort/Write markers range: Graphical-HTTP, count=23, lines=27807811, groups=112
+30.03.2019 19:31:02: 28. Finished range: Graphical-HTTP, count=23, lines=27807811, groups=112
+30.03.2019 19:31:02: 29. Read markers range: Handcrafted-Handcrafted, count=1, lines=18889268, groups=112
+30.03.2019 19:37:19: 29. Done range: Handcrafted-Handcrafted, count=1, lines=18889268, groups=112
+30.03.2019 19:37:19: 29. Sort/Write markers range: Handcrafted-Handcrafted, count=1, lines=18889268, groups=112
+30.03.2019 19:38:13: 29. Finished range: Handcrafted-Handcrafted, count=1, lines=18889268, groups=112
+30.03.2019 19:38:13: 30. Read markers range: Handmade-Heard, count=8, lines=29215620, groups=112
+30.03.2019 19:45:48: 30. Done range: Handmade-Heard, count=8, lines=29215620, groups=112
+30.03.2019 19:45:48: 30. Sort/Write markers range: Handmade-Heard, count=8, lines=29215620, groups=112
+30.03.2019 19:46:55: 30. Finished range: Handmade-Heard, count=8, lines=29215620, groups=112
+30.03.2019 19:46:55: 31. Read markers range: Heights-Hryvnia, count=12, lines=26676998, groups=112
+30.03.2019 19:53:58: 31. Done range: Heights-Hryvnia, count=12, lines=26676998, groups=112
+30.03.2019 19:53:58: 31. Sort/Write markers range: Heights-Hryvnia, count=12, lines=26676998, groups=112
+30.03.2019 19:55:05: 31. Finished range: Heights-Hryvnia, count=12, lines=26676998, groups=112
+30.03.2019 19:55:05: 32. Read markers range: Human-Implemented, count=9, lines=21228611, groups=112
+30.03.2019 20:01:13: 32. Done range: Human-Implemented, count=9, lines=21228611, groups=112
+30.03.2019 20:01:13: 32. Sort/Write markers range: Human-Implemented, count=9, lines=21228611, groups=112
+30.03.2019 20:02:00: 32. Finished range: Human-Implemented, count=9, lines=21228611, groups=112
+30.03.2019 20:02:00: 33. Read markers range: Incredible-Industrial,, count=7, lines=27449721, groups=112
+30.03.2019 20:09:06: 33. Done range: Incredible-Industrial,, count=7, lines=27449721, groups=112
+30.03.2019 20:09:06: 33. Sort/Write markers range: Incredible-Industrial,, count=7, lines=27449721, groups=112
+30.03.2019 20:10:09: 33. Finished range: Incredible-Industrial,, count=7, lines=27449721, groups=112
+30.03.2019 20:10:09: 34. Read markers range: Infrastructure-Intelligent, count=6, lines=28738879, groups=112
+30.03.2019 20:17:41: 34. Done range: Infrastructure-Intelligent, count=6, lines=28738879, groups=112
+30.03.2019 20:17:41: 34. Sort/Write markers range: Infrastructure-Intelligent, count=6, lines=28738879, groups=112
+30.03.2019 20:18:54: 34. Finished range: Infrastructure-Intelligent, count=6, lines=28738879, groups=112
+30.03.2019 20:18:54: 35. Read markers range: Interactions-Inverse, count=6, lines=17661790, groups=112
+30.03.2019 20:24:56: 35. Done range: Interactions-Inverse, count=6, lines=17661790, groups=112
+30.03.2019 20:24:56: 35. Sort/Write markers range: Interactions-Inverse, count=6, lines=17661790, groups=112
+30.03.2019 20:25:41: 35. Finished range: Interactions-Inverse, count=6, lines=17661790, groups=112
+30.03.2019 20:25:41: 36. Read markers range: Investment-Israel, count=12, lines=29587082, groups=112
+30.03.2019 20:32:48: 36. Done range: Investment-Israel, count=12, lines=29587082, groups=112
+30.03.2019 20:32:48: 36. Sort/Write markers range: Investment-Israel, count=12, lines=29587082, groups=112
+30.03.2019 20:34:00: 36. Finished range: Investment-Israel, count=12, lines=29587082, groups=112
+30.03.2019 20:34:00: 37. Read markers range: Italy-Kids, count=21, lines=28572527, groups=112
+30.03.2019 20:41:07: 37. Done range: Italy-Kids, count=21, lines=28572527, groups=112
+30.03.2019 20:41:07: 37. Sort/Write markers range: Italy-Kids, count=21, lines=28572527, groups=112
+30.03.2019 20:42:10: 37. Finished range: Italy-Kids, count=21, lines=28572527, groups=112
+30.03.2019 20:42:10: 38. Read markers range: Kids,-Lesotho, count=30, lines=29333424, groups=112
+30.03.2019 20:49:14: 38. Done range: Kids,-Lesotho, count=30, lines=29333424, groups=112
+30.03.2019 20:49:14: 38. Sort/Write markers range: Kids,-Lesotho, count=30, lines=29333424, groups=112
+30.03.2019 20:50:20: 38. Finished range: Kids,-Lesotho, count=30, lines=29333424, groups=112
+30.03.2019 20:50:20: 39. Read markers range: Liaison-Lithuanian, count=11, lines=29385120, groups=112
+30.03.2019 20:58:01: 39. Done range: Liaison-Lithuanian, count=11, lines=29385120, groups=112
+30.03.2019 20:58:01: 39. Sort/Write markers range: Liaison-Lithuanian, count=11, lines=29385120, groups=112
+30.03.2019 20:59:08: 39. Finished range: Liaison-Lithuanian, count=11, lines=29385120, groups=112
+30.03.2019 20:59:08: 40. Read markers range: Loaf-Marketing, count=26, lines=28984005, groups=112
+30.03.2019 21:05:38: 40. Done range: Loaf-Marketing, count=26, lines=28984005, groups=112
+30.03.2019 21:05:38: 40. Sort/Write markers range: Loaf-Marketing, count=26, lines=28984005, groups=112
+30.03.2019 21:06:39: 40. Finished range: Loaf-Marketing, count=26, lines=28984005, groups=112
+30.03.2019 21:06:39: 41. Read markers range: Markets-Micronesia, count=17, lines=29159080, groups=112
+30.03.2019 21:13:34: 41. Done range: Markets-Micronesia, count=17, lines=29159080, groups=112
+30.03.2019 21:13:34: 41. Sort/Write markers range: Markets-Micronesia, count=17, lines=29159080, groups=112
+30.03.2019 21:14:39: 41. Finished range: Markets-Micronesia, count=17, lines=29159080, groups=112
+30.03.2019 21:14:39: 42. Read markers range: Mill-Monitored, count=13, lines=29505169, groups=112
+30.03.2019 21:25:46: 42. Done range: Mill-Monitored, count=13, lines=29505169, groups=112
+30.03.2019 21:25:46: 42. Sort/Write markers range: Mill-Monitored, count=13, lines=29505169, groups=112
+30.03.2019 21:26:51: 42. Finished range: Mill-Monitored, count=13, lines=29505169, groups=112
+30.03.2019 21:26:51: 43. Read markers range: Montana-Namibia, count=22, lines=26398481, groups=112
+30.03.2019 21:33:54: 43. Done range: Montana-Namibia, count=22, lines=26398481, groups=112
+30.03.2019 21:33:54: 43. Sort/Write markers range: Montana-Namibia, count=22, lines=26398481, groups=112
+30.03.2019 21:34:55: 43. Finished range: Montana-Namibia, count=22, lines=26398481, groups=112
+30.03.2019 21:34:55: 44. Read markers range: National-Norfolk, count=15, lines=28402847, groups=112
+30.03.2019 21:42:06: 44. Done range: National-Norfolk, count=15, lines=28402847, groups=112
+30.03.2019 21:42:06: 44. Sort/Write markers range: National-Norfolk, count=15, lines=28402847, groups=112
+30.03.2019 21:43:12: 44. Finished range: National-Norfolk, count=15, lines=28402847, groups=112
+30.03.2019 21:43:12: 45. Read markers range: North-Orchard, count=18, lines=29247797, groups=112
+30.03.2019 21:51:02: 45. Done range: North-Orchard, count=18, lines=29247797, groups=112
+30.03.2019 21:51:02: 45. Sort/Write markers range: North-Orchard, count=18, lines=29247797, groups=112
+30.03.2019 21:52:09: 45. Finished range: North-Orchard, count=18, lines=29247797, groups=112
+30.03.2019 21:52:09: 46. Read markers range: Orchestrator-PNG, count=18, lines=27456532, groups=112
+30.03.2019 21:59:21: 46. Done range: Orchestrator-PNG, count=18, lines=27456532, groups=112
+30.03.2019 21:59:21: 46. Sort/Write markers range: Orchestrator-PNG, count=18, lines=27456532, groups=112
+30.03.2019 22:00:24: 46. Finished range: Orchestrator-PNG, count=18, lines=27456532, groups=112
+30.03.2019 22:00:24: 47. Read markers range: Paradigm-Phased, count=16, lines=29805257, groups=112
+30.03.2019 22:07:27: 47. Done range: Paradigm-Phased, count=16, lines=29805257, groups=112
+30.03.2019 22:07:27: 47. Sort/Write markers range: Paradigm-Phased, count=16, lines=29805257, groups=112
+30.03.2019 22:08:39: 47. Finished range: Paradigm-Phased, count=16, lines=29805257, groups=112
+30.03.2019 22:08:39: 48. Read markers range: Philippine-Polarised, count=17, lines=28168137, groups=112
+30.03.2019 22:15:33: 48. Done range: Philippine-Polarised, count=17, lines=28168137, groups=112
+30.03.2019 22:15:33: 48. Sort/Write markers range: Philippine-Polarised, count=17, lines=28168137, groups=112
+30.03.2019 22:16:34: 48. Finished range: Philippine-Polarised, count=17, lines=28168137, groups=112
+30.03.2019 22:16:34: 49. Read markers range: Port-Pre-emptive, count=7, lines=26765741, groups=112
+30.03.2019 22:23:15: 49. Done range: Port-Pre-emptive, count=7, lines=26765741, groups=112
+30.03.2019 22:23:15: 49. Sort/Write markers range: Port-Pre-emptive, count=7, lines=26765741, groups=112
+30.03.2019 22:24:19: 49. Finished range: Port-Pre-emptive, count=7, lines=26765741, groups=112
+30.03.2019 22:24:19: 50. Read markers range: Principal-Quality-focused, count=16, lines=29477550, groups=112
+30.03.2019 22:31:03: 50. Done range: Principal-Quality-focused, count=16, lines=29477550, groups=112
+30.03.2019 22:31:03: 50. Sort/Write markers range: Principal-Quality-focused, count=16, lines=29477550, groups=112
+30.03.2019 22:32:13: 50. Finished range: Principal-Quality-focused, count=16, lines=29477550, groups=112
+30.03.2019 22:32:13: 51. Read markers range: Quetzal-RSS, count=15, lines=21151218, groups=112
+30.03.2019 22:38:30: 51. Done range: Quetzal-RSS, count=15, lines=21151218, groups=112
+30.03.2019 22:38:30: 51. Sort/Write markers range: Quetzal-RSS, count=15, lines=21151218, groups=112
+30.03.2019 22:39:25: 51. Finished range: Quetzal-RSS, count=15, lines=21151218, groups=112
+30.03.2019 22:39:25: 52. Read markers range: Refined-Republic, count=4, lines=28488917, groups=112
+30.03.2019 22:47:08: 52. Done range: Refined-Republic, count=4, lines=28488917, groups=112
+30.03.2019 22:47:08: 52. Sort/Write markers range: Refined-Republic, count=4, lines=28488917, groups=112
+30.03.2019 22:48:17: 52. Finished range: Refined-Republic, count=4, lines=28488917, groups=112
+30.03.2019 22:48:17: 53. Read markers range: Research-Row, count=18, lines=22852610, groups=112
+30.03.2019 22:56:43: 53. Done range: Research-Row, count=18, lines=22852610, groups=112
+30.03.2019 22:56:43: 53. Sort/Write markers range: Research-Row, count=18, lines=22852610, groups=112
+30.03.2019 22:57:28: 53. Finished range: Research-Row, count=18, lines=22852610, groups=112
+30.03.2019 22:57:28: 54. Read markers range: Rubber-Russian, count=6, lines=13985210, groups=112
+30.03.2019 23:03:02: 54. Done range: Rubber-Russian, count=6, lines=13985210, groups=112
+30.03.2019 23:03:02: 54. Sort/Write markers range: Rubber-Russian, count=6, lines=13985210, groups=112
+30.03.2019 23:03:32: 54. Finished range: Rubber-Russian, count=6, lines=13985210, groups=112
+30.03.2019 23:03:32: 55. Read markers range: Rustic-SCSI, count=4, lines=27372435, groups=112
+30.03.2019 23:10:56: 55. Done range: Rustic-SCSI, count=4, lines=27372435, groups=112
+30.03.2019 23:10:56: 55. Sort/Write markers range: Rustic-SCSI, count=4, lines=27372435, groups=112
+30.03.2019 23:11:53: 55. Finished range: Rustic-SCSI, count=4, lines=27372435, groups=112
+30.03.2019 23:11:53: 56. Read markers range: Saint-SSL, count=11, lines=25215435, groups=112
+30.03.2019 23:18:30: 56. Done range: Saint-SSL, count=11, lines=25215435, groups=112
+30.03.2019 23:18:30: 56. Sort/Write markers range: Saint-SSL, count=11, lines=25215435, groups=112
+30.03.2019 23:19:22: 56. Finished range: Saint-SSL, count=11, lines=25215435, groups=112
+30.03.2019 23:19:22: 57. Read markers range: Savings-Shoals, count=13, lines=29932234, groups=112
+30.03.2019 23:26:41: 57. Done range: Savings-Shoals, count=13, lines=29932234, groups=112
+30.03.2019 23:26:41: 57. Sort/Write markers range: Savings-Shoals, count=13, lines=29932234, groups=112
+30.03.2019 23:27:46: 57. Finished range: Savings-Shoals, count=13, lines=29932234, groups=112
+30.03.2019 23:27:46: 58. Read markers range: Shoes-Slovenia, count=11, lines=29677613, groups=112
+30.03.2019 23:34:39: 58. Done range: Shoes-Slovenia, count=11, lines=29677613, groups=112
+30.03.2019 23:34:39: 58. Sort/Write markers range: Shoes-Slovenia, count=11, lines=29677613, groups=112
+30.03.2019 23:35:50: 58. Finished range: Shoes-Slovenia, count=11, lines=29677613, groups=112
+30.03.2019 23:35:50: 59. Read markers range: Small-Solomon, count=3, lines=29757534, groups=112
+30.03.2019 23:42:23: 59. Done range: Small-Solomon, count=3, lines=29757534, groups=112
+30.03.2019 23:42:23: 59. Sort/Write markers range: Small-Solomon, count=3, lines=29757534, groups=112
+30.03.2019 23:43:35: 59. Finished range: Small-Solomon, count=3, lines=29757534, groups=112
+30.03.2019 23:43:35: 60. Read markers range: Solutions-Sri, count=17, lines=29662317, groups=112
+30.03.2019 23:50:44: 60. Done range: Solutions-Sri, count=17, lines=29662317, groups=112
+30.03.2019 23:50:44: 60. Sort/Write markers range: Solutions-Sri, count=17, lines=29662317, groups=112
+30.03.2019 23:51:52: 60. Finished range: Solutions-Sri, count=17, lines=29662317, groups=112
+30.03.2019 23:51:52: 61. Read markers range: Stand-alone-Summit, count=12, lines=27739746, groups=112
+30.03.2019 23:58:17: 61. Done range: Stand-alone-Summit, count=12, lines=27739746, groups=112
+30.03.2019 23:58:17: 61. Sort/Write markers range: Stand-alone-Summit, count=12, lines=27739746, groups=112
+30.03.2019 23:59:22: 61. Finished range: Stand-alone-Summit, count=12, lines=27739746, groups=112
+30.03.2019 23:59:22: 62. Read markers range: Supervisor-THX, count=23, lines=27245524, groups=112
+31.03.2019 0:05:56: 62. Done range: Supervisor-THX, count=23, lines=27245524, groups=112
+31.03.2019 0:05:56: 62. Sort/Write markers range: Supervisor-THX, count=23, lines=27245524, groups=112
+31.03.2019 0:06:58: 62. Finished range: Supervisor-THX, count=23, lines=27245524, groups=112
+31.03.2019 0:06:58: 63. Read markers range: Tasty-Terrace, count=6, lines=27994241, groups=112
+31.03.2019 0:13:29: 63. Done range: Tasty-Terrace, count=6, lines=27994241, groups=112
+31.03.2019 0:13:29: 63. Sort/Write markers range: Tasty-Terrace, count=6, lines=27994241, groups=112
+31.03.2019 0:14:31: 63. Finished range: Tasty-Terrace, count=6, lines=27994241, groups=112
+31.03.2019 0:14:31: 64. Read markers range: Texas-Turks, count=26, lines=28576895, groups=112
+31.03.2019 0:21:48: 64. Done range: Texas-Turks, count=26, lines=28576895, groups=112
+31.03.2019 0:21:48: 64. Sort/Write markers range: Texas-Turks, count=26, lines=28576895, groups=112
+31.03.2019 0:22:49: 64. Finished range: Texas-Turks, count=26, lines=28576895, groups=112
+31.03.2019 0:22:49: 65. Read markers range: Turnpike-USB, count=8, lines=17057850, groups=112
+31.03.2019 0:29:00: 65. Done range: Turnpike-USB, count=8, lines=17057850, groups=112
+31.03.2019 0:29:00: 65. Sort/Write markers range: Turnpike-USB, count=8, lines=17057850, groups=112
+31.03.2019 0:29:45: 65. Finished range: Turnpike-USB, count=8, lines=17057850, groups=112
+31.03.2019 0:29:45: 66. Read markers range: Unbranded-Uruguay, count=9, lines=27149480, groups=112
+31.03.2019 0:35:53: 66. Done range: Unbranded-Uruguay, count=9, lines=27149480, groups=112
+31.03.2019 0:35:53: 66. Sort/Write markers range: Unbranded-Uruguay, count=9, lines=27149480, groups=112
+31.03.2019 0:36:53: 66. Finished range: Unbranded-Uruguay, count=9, lines=27149480, groups=112
+31.03.2019 0:36:53: 67. Read markers range: Usability-Vision-oriented, count=25, lines=29173161, groups=112
+31.03.2019 0:43:40: 67. Done range: Usability-Vision-oriented, count=25, lines=29173161, groups=112
+31.03.2019 0:43:40: 67. Sort/Write markers range: Usability-Vision-oriented, count=25, lines=29173161, groups=112
+31.03.2019 0:44:52: 67. Finished range: Usability-Vision-oriented, count=25, lines=29173161, groups=112
+31.03.2019 0:44:52: 68. Read markers range: Vista-Wooden, count=16, lines=29136269, groups=112
+31.03.2019 0:51:31: 68. Done range: Vista-Wooden, count=16, lines=29136269, groups=112
+31.03.2019 0:51:31: 68. Sort/Write markers range: Vista-Wooden, count=16, lines=29136269, groups=112
+31.03.2019 0:52:34: 68. Finished range: Vista-Wooden, count=16, lines=29136269, groups=112
+31.03.2019 0:52:34: 69. Read markers range: ability-Zloty, count=20, lines=29478935, groups=112
+31.03.2019 0:59:07: 69. Done range: ability-Zloty, count=20, lines=29478935, groups=112
+31.03.2019 0:59:07: 69. Sort/Write markers range: ability-Zloty, count=20, lines=29478935, groups=112
+31.03.2019 1:00:15: 69. Finished range: ability-Zloty, count=20, lines=29478935, groups=112
+31.03.2019 1:00:15: 70. Read markers range: analyzer-attitude-oriented, count=15, lines=27959489, groups=112
+31.03.2019 1:07:14: 70. Done range: analyzer-attitude-oriented, count=15, lines=27959489, groups=112
+31.03.2019 1:07:14: 70. Sort/Write markers range: analyzer-attitude-oriented, count=15, lines=27959489, groups=112
+31.03.2019 1:08:20: 70. Finished range: analyzer-attitude-oriented, count=15, lines=27959489, groups=112
+31.03.2019 1:08:20: 71. Read markers range: auxiliary-background, count=5, lines=24029354, groups=112
+31.03.2019 1:14:46: 71. Done range: auxiliary-background, count=5, lines=24029354, groups=112
+31.03.2019 1:14:46: 71. Sort/Write markers range: auxiliary-background, count=5, lines=24029354, groups=112
+31.03.2019 1:15:46: 71. Finished range: auxiliary-background, count=5, lines=24029354, groups=112
+31.03.2019 1:15:46: 72. Read markers range: backing-blockchains, count=10, lines=28677337, groups=112
+31.03.2019 1:22:23: 72. Done range: backing-blockchains, count=10, lines=28677337, groups=112
+31.03.2019 1:22:23: 72. Sort/Write markers range: backing-blockchains, count=10, lines=28677337, groups=112
+31.03.2019 1:23:30: 72. Finished range: backing-blockchains, count=10, lines=28677337, groups=112
+31.03.2019 1:23:30: 73. Read markers range: blue-bypass, count=8, lines=25346991, groups=112
+31.03.2019 1:29:29: 73. Done range: blue-bypass, count=8, lines=25346991, groups=112
+31.03.2019 1:29:29: 73. Sort/Write markers range: blue-bypass, count=8, lines=25346991, groups=112
+31.03.2019 1:30:26: 73. Finished range: blue-bypass, count=8, lines=25346991, groups=112
+31.03.2019 1:30:26: 74. Read markers range: bypassing-capacity, count=6, lines=25857994, groups=112
+31.03.2019 1:36:18: 74. Done range: bypassing-capacity, count=6, lines=25857994, groups=112
+31.03.2019 1:36:18: 74. Sort/Write markers range: bypassing-capacity, count=6, lines=25857994, groups=112
+31.03.2019 1:37:10: 74. Finished range: bypassing-capacity, count=6, lines=25857994, groups=112
+31.03.2019 1:37:10: 75. Read markers range: card-composite, count=16, lines=29120490, groups=112
+31.03.2019 1:44:29: 75. Done range: card-composite, count=16, lines=29120490, groups=112
+31.03.2019 1:44:29: 75. Sort/Write markers range: card-composite, count=16, lines=29120490, groups=112
+31.03.2019 1:45:38: 75. Finished range: card-composite, count=16, lines=29120490, groups=112
+31.03.2019 1:45:38: 76. Read markers range: compress-content, count=7, lines=29752710, groups=112
+31.03.2019 1:53:01: 76. Done range: compress-content, count=7, lines=29752710, groups=112
+31.03.2019 1:53:01: 76. Sort/Write markers range: compress-content, count=7, lines=29752710, groups=112
+31.03.2019 1:54:08: 76. Finished range: compress-content, count=7, lines=29752710, groups=112
+31.03.2019 1:54:08: 77. Read markers range: content-based-cross-platform, count=10, lines=29547473, groups=112
+31.03.2019 2:03:07: 77. Done range: content-based-cross-platform, count=10, lines=29547473, groups=112
+31.03.2019 2:03:07: 77. Sort/Write markers range: content-based-cross-platform, count=10, lines=29547473, groups=112
+31.03.2019 2:04:09: 77. Finished range: content-based-cross-platform, count=10, lines=29547473, groups=112
+31.03.2019 2:04:09: 78. Read markers range: cultivate-deploy, count=13, lines=20736709, groups=112
+31.03.2019 2:11:12: 78. Done range: cultivate-deploy, count=13, lines=20736709, groups=112
+31.03.2019 2:11:12: 78. Sort/Write markers range: cultivate-deploy, count=13, lines=20736709, groups=112
+31.03.2019 2:11:51: 78. Finished range: cultivate-deploy, count=13, lines=20736709, groups=112
+31.03.2019 2:11:51: 79. Read markers range: deposit-didactic, count=2, lines=27842123, groups=112
+31.03.2019 2:26:08: 79. Done range: deposit-didactic, count=2, lines=27842123, groups=112
+31.03.2019 2:26:08: 79. Sort/Write markers range: deposit-didactic, count=2, lines=27842123, groups=112
+31.03.2019 2:27:06: 79. Finished range: deposit-didactic, count=2, lines=27842123, groups=112
+31.03.2019 2:27:06: 80. Read markers range: digital-e-commerce, count=11, lines=29585726, groups=112
+31.03.2019 2:33:35: 80. Done range: digital-e-commerce, count=11, lines=29585726, groups=112
+31.03.2019 2:33:35: 80. Sort/Write markers range: digital-e-commerce, count=11, lines=29585726, groups=112
+31.03.2019 2:34:42: 80. Finished range: digital-e-commerce, count=11, lines=29585726, groups=112
+31.03.2019 2:34:42: 81. Read markers range: eco-centric-e-tailers, count=18, lines=29240030, groups=112
+31.03.2019 2:41:02: 81. Done range: eco-centric-e-tailers, count=18, lines=29240030, groups=112
+31.03.2019 2:41:02: 81. Sort/Write markers range: eco-centric-e-tailers, count=18, lines=29240030, groups=112
+31.03.2019 2:42:09: 81. Finished range: eco-centric-e-tailers, count=18, lines=29240030, groups=112
+31.03.2019 2:42:09: 82. Read markers range: enterprise-feed, count=17, lines=29596605, groups=112
+31.03.2019 2:48:31: 82. Done range: enterprise-feed, count=17, lines=29596605, groups=112
+31.03.2019 2:48:31: 82. Sort/Write markers range: enterprise-feed, count=17, lines=29596605, groups=112
+31.03.2019 2:49:33: 82. Finished range: enterprise-feed, count=17, lines=29596605, groups=112
+31.03.2019 2:49:33: 83. Read markers range: firewall-functionalities, count=15, lines=25008170, groups=112
+31.03.2019 2:55:42: 83. Done range: firewall-functionalities, count=15, lines=25008170, groups=112
+31.03.2019 2:55:42: 83. Sort/Write markers range: firewall-functionalities, count=15, lines=25008170, groups=112
+31.03.2019 2:56:53: 83. Finished range: firewall-functionalities, count=15, lines=25008170, groups=112
+31.03.2019 2:56:53: 84. Read markers range: generate-grey, count=7, lines=29136053, groups=112
+Daylight Savings Time
+31.03.2019 4:07:02: 84. Done range: generate-grey, count=7, lines=29136053, groups=112
+31.03.2019 4:07:02: 84. Sort/Write markers range: generate-grey, count=7, lines=29136053, groups=112
+31.03.2019 4:08:06: 84. Finished range: generate-grey, count=7, lines=29136053, groups=112
+31.03.2019 4:08:06: 85. Read markers range: grid-enabled-harness, count=9, lines=29756764, groups=112
+31.03.2019 4:20:36: 85. Done range: grid-enabled-harness, count=9, lines=29756764, groups=112
+31.03.2019 4:20:36: 85. Sort/Write markers range: grid-enabled-harness, count=9, lines=29756764, groups=112
+31.03.2019 4:21:36: 85. Finished range: grid-enabled-harness, count=9, lines=29756764, groups=112
+31.03.2019 4:21:36: 86. Read markers range: help-desk-index, count=16, lines=27179159, groups=112
+31.03.2019 4:28:24: 86. Done range: help-desk-index, count=16, lines=27179159, groups=112
+31.03.2019 4:28:24: 86. Sort/Write markers range: help-desk-index, count=16, lines=27179159, groups=112
+31.03.2019 4:29:26: 86. Finished range: help-desk-index, count=16, lines=27179159, groups=112
+31.03.2019 4:29:26: 87. Read markers range: indexing-input, count=11, lines=29757272, groups=112
+31.03.2019 4:39:24: 87. Done range: indexing-input, count=11, lines=29757272, groups=112
+31.03.2019 4:39:24: 87. Sort/Write markers range: indexing-input, count=11, lines=29757272, groups=112
+31.03.2019 4:40:32: 87. Finished range: indexing-input, count=11, lines=29757272, groups=112
+31.03.2019 4:40:32: 88. Read markers range: installation-intuitive, count=12, lines=21902102, groups=112
+31.03.2019 4:50:33: 88. Done range: installation-intuitive, count=12, lines=21902102, groups=112
+31.03.2019 4:50:33: 88. Sort/Write markers range: installation-intuitive, count=12, lines=21902102, groups=112
+31.03.2019 4:51:24: 88. Finished range: installation-intuitive, count=12, lines=21902102, groups=112
+31.03.2019 4:51:24: 89. Read markers range: invoice-iterate, count=2, lines=28572655, groups=112
+31.03.2019 5:03:18: 89. Done range: invoice-iterate, count=2, lines=28572655, groups=112
+31.03.2019 5:03:18: 89. Sort/Write markers range: invoice-iterate, count=2, lines=28572655, groups=112
+31.03.2019 5:04:28: 89. Finished range: invoice-iterate, count=2, lines=28572655, groups=112
+31.03.2019 5:04:28: 90. Read markers range: ivory-magnetic, count=12, lines=27870907, groups=112
+31.03.2019 5:14:50: 90. Done range: ivory-magnetic, count=12, lines=27870907, groups=112
+31.03.2019 5:14:50: 90. Sort/Write markers range: ivory-magnetic, count=12, lines=27870907, groups=112
+31.03.2019 5:15:47: 90. Finished range: ivory-magnetic, count=12, lines=27870907, groups=112
+31.03.2019 5:15:47: 91. Read markers range: markets-metrics, count=11, lines=25628518, groups=112
+31.03.2019 5:26:13: 91. Done range: markets-metrics, count=11, lines=25628518, groups=112
+31.03.2019 5:26:13: 91. Sort/Write markers range: markets-metrics, count=11, lines=25628518, groups=112
+31.03.2019 5:27:06: 91. Finished range: markets-metrics, count=11, lines=25628518, groups=112
+31.03.2019 5:27:06: 92. Read markers range: microchip-monetize, count=12, lines=29363488, groups=112
+31.03.2019 5:39:53: 92. Done range: microchip-monetize, count=12, lines=29363488, groups=112
+31.03.2019 5:39:53: 92. Sort/Write markers range: microchip-monetize, count=12, lines=29363488, groups=112
+31.03.2019 5:40:50: 92. Finished range: microchip-monetize, count=12, lines=29363488, groups=112
+31.03.2019 5:40:50: 93. Read markers range: monitor-navigate, count=11, lines=25511588, groups=112
+31.03.2019 5:46:58: 93. Done range: monitor-navigate, count=11, lines=25511588, groups=112
+31.03.2019 5:46:58: 93. Sort/Write markers range: monitor-navigate, count=11, lines=25511588, groups=112
+31.03.2019 5:47:57: 93. Finished range: monitor-navigate, count=11, lines=25511588, groups=112
+31.03.2019 5:47:57: 94. Read markers range: navigating-olive, count=12, lines=28818580, groups=112
+31.03.2019 5:54:40: 94. Done range: navigating-olive, count=12, lines=28818580, groups=112
+31.03.2019 5:54:40: 94. Sort/Write markers range: navigating-olive, count=12, lines=28818580, groups=112
+31.03.2019 5:55:45: 94. Finished range: navigating-olive, count=12, lines=28818580, groups=112
+31.03.2019 5:55:45: 95. Read markers range: one-to-one-optimizing, count=8, lines=27128495, groups=112
+31.03.2019 6:02:50: 95. Done range: one-to-one-optimizing, count=8, lines=27128495, groups=112
+31.03.2019 6:02:50: 95. Sort/Write markers range: one-to-one-optimizing, count=8, lines=27128495, groups=112
+31.03.2019 6:03:45: 95. Finished range: one-to-one-optimizing, count=8, lines=27128495, groups=112
+31.03.2019 6:03:45: 96. Read markers range: orange-paradigm, count=9, lines=29528013, groups=112
+31.03.2019 6:13:11: 96. Done range: orange-paradigm, count=9, lines=29528013, groups=112
+31.03.2019 6:13:11: 96. Sort/Write markers range: orange-paradigm, count=9, lines=29528013, groups=112
+31.03.2019 6:14:13: 96. Finished range: orange-paradigm, count=9, lines=29528013, groups=112
+31.03.2019 6:14:13: 97. Read markers range: paradigms-partnerships, count=5, lines=18449190, groups=112
+31.03.2019 6:19:15: 97. Done range: paradigms-partnerships, count=5, lines=18449190, groups=112
+31.03.2019 6:19:15: 97. Sort/Write markers range: paradigms-partnerships, count=5, lines=18449190, groups=112
+31.03.2019 6:20:01: 97. Finished range: paradigms-partnerships, count=5, lines=18449190, groups=112
+31.03.2019 6:20:01: 98. Read markers range: payment-payment, count=1, lines=26772143, groups=112
+31.03.2019 6:25:58: 98. Done range: payment-payment, count=1, lines=26772143, groups=112
+31.03.2019 6:25:58: 98. Sort/Write markers range: payment-payment, count=1, lines=26772143, groups=112
+31.03.2019 6:26:58: 98. Finished range: payment-payment, count=1, lines=26772143, groups=112
+31.03.2019 6:26:58: 99. Read markers range: pink-pricing, count=10, lines=25336264, groups=112
+31.03.2019 6:32:28: 99. Done range: pink-pricing, count=10, lines=25336264, groups=112
+31.03.2019 6:32:28: 99. Sort/Write markers range: pink-pricing, count=10, lines=25336264, groups=112
+31.03.2019 6:33:22: 99. Finished range: pink-pricing, count=10, lines=25336264, groups=112
+31.03.2019 6:33:22: 100. Read markers range: primary-programming, count=8, lines=29595166, groups=112
+31.03.2019 6:45:07: 100. Done range: primary-programming, count=8, lines=29595166, groups=112
+31.03.2019 6:45:07: 100. Sort/Write markers range: primary-programming, count=8, lines=29595166, groups=112
+31.03.2019 6:46:10: 100. Finished range: primary-programming, count=8, lines=29595166, groups=112
+31.03.2019 6:46:10: 101. Read markers range: project-real-time, count=8, lines=27438337, groups=112
+31.03.2019 6:59:45: 101. Done range: project-real-time, count=8, lines=27438337, groups=112
+31.03.2019 6:59:45: 101. Sort/Write markers range: project-real-time, count=8, lines=27438337, groups=112
+31.03.2019 7:00:41: 101. Finished range: project-real-time, count=8, lines=27438337, groups=112
+31.03.2019 7:00:41: 102. Read markers range: reboot-responsive, count=12, lines=29855580, groups=112
+31.03.2019 7:11:09: 102. Done range: reboot-responsive, count=12, lines=29855580, groups=112
+31.03.2019 7:11:09: 102. Sort/Write markers range: reboot-responsive, count=12, lines=29855580, groups=112
+31.03.2019 7:12:11: 102. Finished range: reboot-responsive, count=12, lines=29855580, groups=112
+31.03.2019 7:12:11: 103. Read markers range: revolutionary-sexy, count=15, lines=29745669, groups=112
+31.03.2019 7:19:20: 103. Done range: revolutionary-sexy, count=15, lines=29745669, groups=112
+31.03.2019 7:19:20: 103. Sort/Write markers range: revolutionary-sexy, count=15, lines=29745669, groups=112
+31.03.2019 7:20:29: 103. Finished range: revolutionary-sexy, count=15, lines=29745669, groups=112
+31.03.2019 7:20:29: 104. Read markers range: silver-streamline, count=15, lines=29405996, groups=112
+31.03.2019 7:28:03: 104. Done range: silver-streamline, count=15, lines=29405996, groups=112
+31.03.2019 7:28:03: 104. Sort/Write markers range: silver-streamline, count=15, lines=29405996, groups=112
+31.03.2019 7:29:09: 104. Finished range: silver-streamline, count=15, lines=29405996, groups=112
+31.03.2019 7:29:09: 105. Read markers range: structure-synthesizing, count=12, lines=29573412, groups=112
+31.03.2019 7:36:21: 105. Done range: structure-synthesizing, count=12, lines=29573412, groups=112
+31.03.2019 7:36:21: 105. Sort/Write markers range: structure-synthesizing, count=12, lines=29573412, groups=112
+31.03.2019 7:37:30: 105. Finished range: structure-synthesizing, count=12, lines=29573412, groups=112
+31.03.2019 7:37:30: 106. Read markers range: system-toolset, count=15, lines=28399649, groups=112
+31.03.2019 7:43:53: 106. Done range: system-toolset, count=15, lines=28399649, groups=112
+31.03.2019 7:43:53: 106. Sort/Write markers range: system-toolset, count=15, lines=28399649, groups=112
+31.03.2019 7:44:57: 106. Finished range: system-toolset, count=15, lines=28399649, groups=112
+31.03.2019 7:44:57: 107. Read markers range: transform-turquoise, count=9, lines=28491843, groups=112
+31.03.2019 7:53:33: 107. Done range: transform-turquoise, count=9, lines=28491843, groups=112
+31.03.2019 7:53:33: 107. Sort/Write markers range: transform-turquoise, count=9, lines=28491843, groups=112
+31.03.2019 7:54:34: 107. Finished range: transform-turquoise, count=9, lines=28491843, groups=112
+31.03.2019 7:54:34: 108. Read markers range: ubiquitous-viral, count=13, lines=22937355, groups=112
+31.03.2019 8:00:22: 108. Done range: ubiquitous-viral, count=13, lines=22937355, groups=112
+31.03.2019 8:00:22: 108. Sort/Write markers range: ubiquitous-viral, count=13, lines=22937355, groups=112
+31.03.2019 8:01:14: 108. Finished range: ubiquitous-viral, count=13, lines=22937355, groups=112
+31.03.2019 8:01:14: 109. Read markers range: virtual-whiteboard, count=11, lines=28230738, groups=112
+31.03.2019 8:08:47: 109. Done range: virtual-whiteboard, count=11, lines=28230738, groups=112
+31.03.2019 8:08:47: 109. Sort/Write markers range: virtual-whiteboard, count=11, lines=28230738, groups=112
+31.03.2019 8:09:47: 109. Finished range: virtual-whiteboard, count=11, lines=28230738, groups=112
+31.03.2019 8:09:47: 110. Read markers range: wireless-wireless, count=1, lines=7597667, groups=112
+31.03.2019 8:14:10: 110. Done range: wireless-wireless, count=1, lines=7597667, groups=112
+31.03.2019 8:14:10: 110. Sort/Write markers range: wireless-wireless, count=1, lines=7597667, groups=112
+31.03.2019 8:14:22: 110. Finished range: wireless-wireless, count=1, lines=7597667, groups=112
+31.03.2019 8:14:22: 111. Read markers range: withdrawal-world-class, count=3, lines=29467967, groups=112
+31.03.2019 8:21:49: 111. Done range: withdrawal-world-class, count=3, lines=29467967, groups=112
+31.03.2019 8:21:49: 111. Sort/Write markers range: withdrawal-world-class, count=3, lines=29467967, groups=112
+31.03.2019 8:22:50: 111. Finished range: withdrawal-world-class, count=3, lines=29467967, groups=112
+31.03.2019 8:22:50: 112. Read markers range: yellow-zero, count=2, lines=6639225, groups=112
+31.03.2019 8:27:17: 112. Done range: yellow-zero, count=2, lines=6639225, groups=112
+31.03.2019 8:27:17: 112. Sort/Write markers range: yellow-zero, count=2, lines=6639225, groups=112
+31.03.2019 8:27:28: 112. Finished range: yellow-zero, count=2, lines=6639225, groups=112
+31.03.2019 8:27:29: Memory used, MB: GC => 13614, ProcPrivate => 13916 | Memory free, MB: physical => 1346 of 16243, virtual => 134196078 of 134217727 
+31.03.2019 8:27:29: Transfer sorted data elapsed 16:20:02.9047911|3000000003

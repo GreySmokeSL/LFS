@@ -1,0 +1,47 @@
+﻿<UserControl Name="mpbc" x:Class="LFSApp.Controls.MultiProgressBarControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:cnv="clr-namespace:LFSApp.Converters"
+             xmlns:m="clr-namespace:Domain.Models;assembly=Domain"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="800" >
+    <UserControl.Resources>
+        <cnv:DebugDummyConverter x:Key="DDC" />
+        <!--, Converter={StaticResource DDC}-->
+    </UserControl.Resources>
+    <!--<UserControl.DataContext>
+        <m:MultiProgressBarModelDesign />
+    </UserControl.DataContext>-->
+    <Grid>
+        <Grid.Resources >
+            <Style TargetType="Border" >
+                <Setter Property="Padding" Value="3" />
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Visibility="{Binding HasStage, Converter={cnv:BooleanToVisiblityConverter}, ConverterParameter=Collapse}">
+            <Grid>
+                <ProgressBar Name="pbStage" IsIndeterminate="True" />
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding StageInfo}" />
+            </Grid>
+        </Border>
+        <Border Grid.Row="1" Visibility="{Binding HasDetail, Converter={cnv:BooleanToVisiblityConverter}, ConverterParameter=Collapse}">
+            <Grid>
+                <ProgressBar Name="pbDetailProgress" Minimum="0" Maximum="{Binding DetailTotal}" Value="{Binding DetailValue}" />
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding DetailInfo}"  Foreground="{StaticResource ControlForegroundWhite}"/>
+            </Grid>
+        </Border>
+        <Border Grid.Row="2" Visibility="{Binding HasMain, Converter={cnv:BooleanToVisiblityConverter}, ConverterParameter=Collapse}">
+            <Grid>
+                <ProgressBar Name="pbMainProgress" Minimum="0" Maximum="{Binding MainTotal}" Value="{Binding MainValue}" />
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding MainInfo}"  Foreground="{StaticResource ControlForegroundWhite}"/>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

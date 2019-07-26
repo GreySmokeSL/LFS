@@ -1,0 +1,56 @@
+﻿<Window Name="root" x:Class="LFSApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:b="clr-namespace:LFSApp"
+        xmlns:vm="clr-namespace:LFSApp.ViewModels"
+        xmlns:v="clr-namespace:LFSApp.Views"
+        xmlns:cnv="clr-namespace:LFSApp.Converters"
+        xmlns:ctrl="clr-namespace:LFSApp.Controls"
+        Title="Text File Processor" Icon="Images/Round.ico"
+        MinHeight="400" MinWidth="600" Height="800" Width="800"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResize"
+        UseLayoutRounding="True"
+        TextOptions.TextFormattingMode="Display">
+    <Window.Resources>
+        <cnv:DebugDummyConverter x:Key="DDC" />
+        <!--, Converter={StaticResource DDC}-->
+    </Window.Resources>
+    <!--<Window.DataContext>
+        <vm:MainViewModel x:Name="MVM"/>
+    </Window.DataContext>-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="100"/>
+            <ColumnDefinition Width ="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <ctrl:SwitchContentControl x:Name="sccView" Margin="5" Grid.Row="0" Grid.ColumnSpan="2" DataContext="{Binding}"
+                                   IsEnabled="{Binding DataContext.IsProcessExecuting, ElementName=root, Converter={cnv:BooleanInvertConverter}}" />
+        <DockPanel MinHeight="50" MaxHeight="400" Height="Auto"  Dock="Bottom" Grid.Row="1" Grid.ColumnSpan="2" LastChildFill="True" VerticalAlignment="Bottom">
+            <Grid x:Name="gButtons" DockPanel.Dock="Bottom">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width ="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition MinHeight="40"/>
+                </Grid.RowDefinitions>
+                <Button Grid.Column="3" x:Name="bTerminate" Margin="10" Padding="5" MinWidth="80" Command="{Binding TerminateCommand}" >Terminate</Button>
+                <Button Grid.Column="2" x:Name="bProcess" Margin="10" Padding="5" MinWidth="80" Command="{Binding ProcessCommand}" >Process</Button>
+                <Button Grid.Column="0" x:Name="bClear" Margin="10" Padding="5" MinWidth="80" Command="{Binding ClearLogCommand}" >Clear log</Button>
+            </Grid>
+            <ctrl:MultiProgressBarControl x:Name="pbProgress" Margin="5" DockPanel.Dock="Bottom" 
+                                          
+                                          DataContext="{Binding DataContext.ProgressModel, ElementName=root, UpdateSourceTrigger=PropertyChanged}"
+                                          Visibility="{Binding DataContext.IsProcessExecuting, ElementName=root, Converter={cnv:BooleanToVisiblityConverter}, ConverterParameter=Collapse}"/>
+            <ListBox x:Name="lbLog" MinHeight="100" Margin="5" BorderBrush="LightBlue" BorderThickness="3" 
+                     Visibility="{Binding IsProcessingAllowed, Converter={cnv:BooleanToVisiblityConverter}, ConverterParameter=Collapse}" />
+        </DockPanel>
+    </Grid>
+</Window>
