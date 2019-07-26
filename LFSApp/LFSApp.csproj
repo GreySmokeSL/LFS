@@ -221,10 +221,6 @@
     <Resource Include="Images\Round.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Info\readme.txt" />
-    <Resource Include="Info\SortLog115GB_3Blines.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Round.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
